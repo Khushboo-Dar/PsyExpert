@@ -18,8 +18,3 @@ PsyExpert is a rule-based expert system that analyzes emotions and personality t
 2. Clone this repository:
    ```bash
    git clone https://github.com/Khushboo-Dar/PsyExpert.git
-
-3. ```pip install tkinter
-
-## Usage   
-```python main.py
